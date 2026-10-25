@@ -2,7 +2,8 @@
 layout: home
 ---
 
-Notes from reading research papers one at a time
+Notes from reading research papers and related books and material
+
 
 ## Papers
 
