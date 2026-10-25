@@ -72,4 +72,4 @@ Everything here is harmonic, so phonons never scatter off each other. That is wh
 
 ## Code
 
-The notebook that produces every figure here is on [Colab](PASTE-YOUR-COLAB-LINK-HERE).
+The notebook that produces every figure here is on [Colab](https://colab.research.google.com/drive/1K450F73xufjLhoUaONjG9o7tKmdUX6yl#scrollTo=vpO4Q_FEdT88).
