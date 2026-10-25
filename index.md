@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Notes from reading research papers one at a time: the intuition first, then a from-scratch reproduction.
+Notes from reading research papers one at a time
 
 ## Papers
 
