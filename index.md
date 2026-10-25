@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Notes from reading research papers and related books and material
+Notes from reading research papers and related books and material, then my own _what if_ experiments
 
 
 ## Papers
