@@ -50,7 +50,7 @@ I built a uniform chain (spring constant $$k=1$$, onsite spring $$k_0=0.1$$, uni
 
 *Transmission is 1 across the band $$\sqrt{k_0} < \omega < \sqrt{4k+k_0}$$, which is $$0.316 < \omega < 2.025$$ here, and about $$10^{-10}$$ outside it. Adding atoms to the center changes nothing, since a perfect chain does not reflect.*
 
-## Breaking the chain: what if?
+## what if?
 
 **One heavy atom.** A single atom with mass 3 or 10 in the middle pulls $$T$$ well below 1, and it hurts high frequencies the most, because a heavy atom cannot follow fast vibrations. It acts as a defect that reflects waves.
 
