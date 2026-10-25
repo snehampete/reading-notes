@@ -3,7 +3,10 @@ layout: page
 title: "How heat flows through a chain of atoms: a first look at NEGF"
 permalink: /negf-thermal-transport/
 ---
-
+<script>
+window.MathJax = { tex: { inlineMath: [['\\(', '\\)']], displayMath: [['\\[', '\\]']] } };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>
 *Notes on Wang, Agarwalla, Li and Thingna, "Nonequilibrium Green's function method for quantum thermal transport" (2013). [arXiv:1303.7317](https://arxiv.org/abs/1303.7317)*
 
 ## The question
