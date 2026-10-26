@@ -22,7 +22,7 @@ $$\langle O(t)\rangle = \langle \psi_0 | U^\dagger(t,t_0)\, O\, U(t,t_0) | \psi_
 
 The state evolves forward from the known starting time $$t_0$$ to $$t$$, we measure, and then we evolve backward to compare with the known start. In equilibrium the backward leg can be dropped. With heat flowing, the system never returns to where it started, so both legs must be kept. Drawing them as one forward-and-back loop in time gives the **Keldysh contour**, and the correlations on that loop are organized into one matrix of Green's functions.
 
-## The ingredients, in plain words
+## The ingredients
 
 - **$$G^r$$ (retarded):** how the chain responds to a kick. This depends only on the springs and masses, not on temperature.
 - **$$G^<$$ (lesser):** how much thermal jiggling is actually present. Temperature enters here.
